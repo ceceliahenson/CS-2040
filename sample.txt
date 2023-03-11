@@ -1,0 +1,11 @@
+name,at-bat,runs,hits,rbi,walks
+Hank Aaron,495,95,162,118,71
+Barry Bonds,9847,2227,2935,1996,2558
+Aaron Judge,570,133,177,131,111
+Derrin Ruf,334,52,68,45,45
+Freddie Freeman,612,117,199,100,84
+Jake Cronenworth,587,88,141,88,70
+Jeff McNeil,225,35,74,19,14
+Matt Carpenter,128,28,39,37,19
+Teoscar Hernandez,499,71,133,77,34
+Trent Grisham,451,58,83,53,57
